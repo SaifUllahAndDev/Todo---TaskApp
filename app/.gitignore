@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kotlin_module
+
+# Log files
+*.log
